@@ -1,13 +1,14 @@
 # DNN-
 DNN and RNN  
 
-All machine leanring or Deep learning are fall into one of the Supervised, Un-Supervised and Reinforsement learning. 
+All machine leanring or Deep learning approches falls into one of the category of Supervised, Un-Supervised and Reinforsement learning. 
 
 # Techniques in Machine learning
 Linear/Logistic Regression
+Clustering
 Support Vector Machine
-Normalization (Batch)
-PCA
+Normalization (Batch Norm)
+PCA - Princple Component Analysis
 
 
 # DNN Networks 
