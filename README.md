@@ -1,7 +1,6 @@
-# DNN-
-DNN and RNN  
+# DNN and RNN  
 
-All machine leanring or Deep learning approches falls into one of the category of Supervised, Un-Supervised and Reinforsement learning. 
+All Machine learning or Deep learning approches falls into one of the category of Supervised, Un-Supervised and Reinforsement learning. 
 
 # Techniques in Machine learning
 Linear/Logistic Regression,
@@ -86,10 +85,11 @@ GloVe,
 PoS Tagging,
 Dependecy graph Parsing
 
-# Populor Python/C++ packegs used for DNN
+# Popular Python/C++ packegs used for DNN
 Caffe2,
 Tensorflow,
-Torch
+Torch,
+DyNet (Mainly for NLP)
 
 # Libraries and Optimization
 OpenCV, XGBoost, CuDNN, OpenVINO, OpenCL (GPU/FPGA), CUDA (Nvidia GPU only) , MKL-DNN (Intel) , Intel IPP
