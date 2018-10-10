@@ -28,8 +28,7 @@
 
 # Object Detection in Image
     YOLO - 300 (Rectangular/Square box proposals), SSD - 300 (Single Shot MultiBox), ( NMS and Region Proposals )
-    RCNN, F-RCNN, Faster-RCNN for Object detection
-   
+    RCNN, F-RCNN, Faster-RCNN for Object detection   
     DeepLab for Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
 
 # Anomaly Detection
@@ -52,6 +51,7 @@
     Deep Learning approaches 
 
 # Action Detection using DNN and DataSet
+    ConvNet + LSTM to explore SpatioTemporal dependencies using the models trained on ImageNet.
     Multi-Fiber Net,
     DataSets: UCF-101, Google Kintetics, HMDB51, Facebook Action DataSet, YouTube Action DataSet
     
