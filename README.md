@@ -38,7 +38,7 @@
     Combination of Generator and Discriminator
 
 # DNN for human pose recognition
-    DensePose (FaceBook AI), OpenPose (CMU), DeepPose (Google)
+    DensePose (FaceBook AI), OpenPose (CMU), DeepPose (Google), PoseNet (17 Key points)
 
 # Face Recognition DNN and Dataset
     DeepFace, OpenFace,
