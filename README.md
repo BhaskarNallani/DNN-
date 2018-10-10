@@ -25,6 +25,9 @@
 
 # Object Detection in Image
     YOLO - 300 (Rectangular/Square box proposals), SSD - 300 (Single Shot MultiBox), ( NMS and Region Proposals )
+    RCNN, F-RCNN, Faster-RCNN for Object detection
+   
+    DeepLab for Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
 
 # Anomaly Detection
     AutoEncoders and GAN's
@@ -35,8 +38,9 @@
 # DNN for human pose recognition
     DensePose (FaceBook AI), OpenPose (CMU), DeepPose (Google)
 
-# Face Recognition Dataset for DNN
-    Celebrity Dataset , PIE, FIA
+# Face Recognition DNN and Dataset
+    DeepFace, OpenFace,
+    DataSets: Celebrity Dataset , PIE, FIA
 
 # Face Detection in Image
     Weak Classifier Haar Features (Voila & Jones) in OpenCV,
@@ -44,8 +48,9 @@
     Land Mark points,
     Deep Learning approaches 
 
-# Action DataSet
-    Google Kintetics, Facebook Action DataSet, YouTube Milion DataSet
+# Action Detection using DNN and DataSet
+    Multi-Fiber Net,
+    DataSets: UCF-101, Google Kintetics, HMDB51, Facebook Action DataSet, YouTube Action DataSet
     
 # Image Classification DataSet
     MS COCO, ImageNet
