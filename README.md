@@ -18,7 +18,10 @@
 # Optimization techniques
     GD/SGD (Scochastic Grident Decent),
     Adam Optimizer,
-    Tunning Hyper Parameters
+    Tunning Hyper Parameters,
+    Regularization,
+    Batch Normalization,
+    EPOCH and Batch Size Selection
 
 # Loss funtion
     Euclidean Loss/ L2 Norm,Angular Loss,Triplet Loss
