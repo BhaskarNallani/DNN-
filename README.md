@@ -13,7 +13,7 @@
     PCA - Princple Component Analysis, Normalization (Batch Norm), Regularization are used to arrange the data convert the algorithm faster and acurately.
 
 # DNN Networks 
-    LeNet, AlexNet, VGGNet, GoogleNet (Inception Net (v1,v2,v3,v4)), ResNet, RetinaNet,  CaptuleNet
+    LeNet, AlexNet, VGGNet, GoogleNet (Inception Net (v1,v2,v3,v4)), ResNet, MobileNet Vx, RetinaNet,  CaptuleNet
 
 # Optimization techniques
     GD/SGD (Scochastic Grident Decent),
