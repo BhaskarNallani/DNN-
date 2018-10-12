@@ -53,10 +53,14 @@
 # Action Detection using DNN and DataSet
     ConvNet + LSTM to explore SpatioTemporal dependencies using the models trained on ImageNet.
     Multi-Fiber Net,
-    DataSets: UCF-101, Google Kintetics, HMDB51, Facebook Action DataSet, YouTube Action DataSet
+    DensePose,
+    
+    DataSets: UCF-101, Google Kintetics, HMDB51, Facebook Action DataSet, YouTube Action DataSet,
+    20M-Gesture-DataSet:https://20bn.com/datasets/jester
     
 # Image Classification DataSet
-    MS COCO, ImageNet
+    MS COCO, PASCAL VOC 2012,ImageNet
+   
      
 # Usefull python packages for ML and AI
     Numpy,  SciKit-Learn,  MathPlotlib,  Pandas,  Seaborn
