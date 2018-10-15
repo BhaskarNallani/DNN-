@@ -56,6 +56,11 @@
     DensePose,
     
     DataSets: UCF-101, Google Kintetics, HMDB51, Facebook Action DataSet, YouTube Action DataSet,
+    https://20bn.com/products/datasets
+    
+# Geture Recognition
+    Networks: 
+    DNN + TRN (Temporal Relation Network- Combining multiple frame features of 2D-CNN output into temporal relation and produce the         output )
     20M-Gesture-DataSet:https://20bn.com/datasets/jester
     
 # Image Classification DataSet
