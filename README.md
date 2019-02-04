@@ -2,13 +2,13 @@
     All Machine learning or Deep learning approches falls into one of the category of Supervised, Un-Supervised and Reinforsement learning. 
 
 # Techniques in Machine learning
- # Supervised
-   # Clsification
-    K-Nearest Neighour,Support Vector Machine,Naive Bayes,Discriment Analysis,
-   # Regression
-    Decision Trees, Random Forest, Linear/Logistic Regression, Neural Networks,
- # Unsupervised 
-    Clustering ( K-Means,Gussian Mixture, Hidden Morkov Models, Neural Networks
+  I.  Supervised
+    1. Clsification
+        K-Nearest Neighour,Support Vector Machine,Naive Bayes,Discriment Analysis,
+    2. Regression
+        Decision Trees, Random Forest, Linear/Logistic Regression, Neural Networks,
+  II.  Unsupervised 
+    1. Clustering ( K-Means,Gussian Mixture, Hidden Morkov Models, Neural Networks
    
     PCA - Princple Component Analysis, Normalization (Batch Norm), Regularization are used to arrange the data convert the algorithm faster and acurately.
 
